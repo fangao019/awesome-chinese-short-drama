@@ -3,6 +3,8 @@
 精选的中文竖屏短剧（微短剧）平台与资源清单。
 A curated list of Chinese vertical short-drama (微短剧 / mini-drama) platforms and resources.
 
+渠道辨别：[官方短剧渠道辨别](guides/2026-11-24-official-short-drama-channel-identification/README.md)
+
 ## 什么是竖屏短剧
 
 竖屏短剧（又称微短剧、小程序剧）指以 9:16 竖屏形态拍摄、单集 1–3 分钟、整部数十至上百集的连续剧。
