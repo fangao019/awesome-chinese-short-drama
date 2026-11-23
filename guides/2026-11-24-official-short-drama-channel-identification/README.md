@@ -589,15 +589,15 @@ Consulted on 24 November 2026 (Asia/Bangkok, UTC+7). These are official referenc
 
 查阅日期：2026年11月24日（Asia/Bangkok，UTC+7）。以下为官方参考来源，不计入库存外链位置。
 
-1. National Radio and Television Administration (NRTA), Decree No. 16, *Measures for the Administration of Micro-Drama Development*, promulgated 30 July 2026, effective 1 September 2026: https://www.nrta.gov.cn/art/2026/7/31/art_113_73785.html
-2. The same Measures, official text in *State Council Gazette*, 2026, No. 27: https://www.gov.cn/gongbao/2026/issue_13006/202609/content_7082247.html
-3. NRTA General Office, *Notice on Further Coordinating Development and Safety to Promote the Healthy and Prosperous Development of the Online Micro-Drama Industry* (NRTA General Office Document [2024] No. 35), issued 5 February 2024, posted 5 February 2025: https://www.nrta.gov.cn/art/2025/2/5/art_113_70148.html
-4. NRTA, directory page of institutions holding the Information Network Dissemination of Audiovisual Programmes License, published 28 July 2025 (use the latest official list in the same section if a later edition appears): https://www.nrta.gov.cn/art/2025/7/28/art_3569_56268.html
-5. NRTA, announcement of a further special campaign on micro-dramas, 6 November 2026: https://www.nrta.gov.cn/art/2026/11/6/art_114_74410.html
-6. National Copyright Administration and others, announcement published 1 June 2026 of the “Jianwang 2026” campaign against online copyright infringement (campaign launched 22 May 2026; carried out June–November 2026): https://www.ncac.gov.cn/xxfb/ywxx/202606/t20260601_992433.html
-7. Apple Support, “Safely open apps on your Mac,” published 27 May 2026: https://support.apple.com/en-us/102445
-8. Apple Support, “Contact a third-party vendor,” published 17 November 2025: https://support.apple.com/en-us/103190
-9. Google Android Help, “Download apps to your Android device”: https://support.google.com/android/answer/9457058?hl=en
+1. National Radio and Television Administration (NRTA), Decree No. 16, *Measures for the Administration of Micro-Drama Development*, promulgated 30 July 2026, effective 1 September 2026. 国家广播电视总局公开信息
+2. The same Measures, official text in *State Council Gazette*, 2026, No. 27. 国务院公报公开信息
+3. NRTA General Office, *Notice on Further Coordinating Development and Safety to Promote the Healthy and Prosperous Development of the Online Micro-Drama Industry* (NRTA General Office Document [2024] No. 35), issued 5 February 2024, posted 5 February 2025. 国家广播电视总局公开信息
+4. NRTA, directory page of institutions holding the Information Network Dissemination of Audiovisual Programmes License, published 28 July 2025 (use the latest official list in the same section if a later edition appears). 国家广播电视总局公开信息
+5. NRTA, announcement of a further special campaign on micro-dramas, 6 November 2026. 国家广播电视总局公开信息
+6. National Copyright Administration and others, announcement published 1 June 2026 of the “Jianwang 2026” campaign against online copyright infringement (campaign launched 22 May 2026; carried out June–November 2026). 国家版权局公开信息
+7. Apple Support, “Safely open apps on your Mac,” published 27 May 2026. Apple 支持公开信息
+8. Apple Support, “Contact a third-party vendor,” published 17 November 2025. Apple 支持公开信息
+9. Google Android Help, “Download apps to your Android device”. Google Android 帮助公开信息
 
 ## GitHub brand entry / GitHub 品牌入口
 
